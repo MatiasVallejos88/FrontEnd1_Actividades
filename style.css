@@ -1,0 +1,30 @@
+header{background-color: #E5E5E5;
+    text-align:center;}
+
+    .fotocv{height:320px;;}
+
+    h1{ font-family: 'Times New Roman';
+    font-size: 35px;
+    color:#005677;
+    background-color: 
+#C4C4C4;
+    text-align:center;
+    padding: 10px;
+    margin-bottom: 150px;
+    }
+
+    h3{font-family: 'Times New Roman';
+    font-size: 20px;
+    color:#005677;
+    background-color:
+    #C4C4C4;}
+    .negrita{
+        font-weight:bold;
+        line-height: 28px;
+    }
+
+footer{background-color:
+    #005677;
+    text-align: center;
+    margin-top: 150px;
+    }
